@@ -1,26 +1,13 @@
-CN
-时隔几个月1.0正式更新(原先1.4)
-1.启动器
-2.第三人称动作全修复
-3.怪物添加纹理
-4.添加新怪物
-5.前几个早期版本地图重置
-6.加强了爆炸效果
-7.加强画质(也就一丢丢吧)
-8.添加新的纹理
-9.主页再次更新
-以上就是全部更新内容了
-请等待下个正式版本1.1
-EN
-After several months, version 1.0 was officially released (replacing the previous 1.4).
-1. Launcher
-2. All third-person actions have been restored.
-3. Adding textures to monsters
-4. Add new monsters
-5. Maps in the earlier versions were reset.
-6. Enhanced explosion effects
-7. Improve image quality (by a tiny amount, anyway)
-8. Add new textures
-9. The homepage has been updated again.
-That’s all the updates.
-Please wait for the next official version 1.1.
+CN/EN
+时隔几个月1.0正式更新(原先1.4)/V1.0(Replacing1.4) After Months
+1.启动器/1.Launcher added
+2.第三人称动作全修复/2.Third-person actions fully fixed
+3.怪物添加纹理/3.Monster textures added
+4.添加新怪物/4.New monsters added
+5.前几个早期版本地图重置/5.Early maps reset
+6.加强了爆炸效果/6.Explosion effects enhanced
+7.加强画质(也就一丢丢吧)/7.Slight graphics upgrade
+8.添加新的纹理/8.New textures added
+9.主页再次更新/9.Homepage updated
+以上就是全部更新内容了/Updates ended.
+请等待下个正式版本1.1/Wait V1.1
