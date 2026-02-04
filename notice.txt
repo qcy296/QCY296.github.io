@@ -1,7 +1,24 @@
 CN
-tinky winky mod时代已结束正式改名为resist
-resist 1.0demo正式发布
-
+时隔几个月1.0正式更新(原先1.4)
+1.启动器
+2.第三人称动作全修复
+3.怪物添加纹理
+4.添加新怪物
+5.前几个早期版本地图重置
+6.加强了爆炸效果
+7.加强画质(也就一丢丢吧)
+8.添加新的纹理
+以上就是全部更新内容了
+请等待下个正式版本1.1
 EN
-The “Tinky Winky Mod” era is over; it has now been officially renamed “Resist”.
-The 1.0 demo version of “resist” has been officially released.
+After several months, version 1.0 was officially released (replacing the previous 1.4).
+1. Starter
+2. All third-person actions have been restored.
+3. Adding textures to monsters
+4. Add new monsters
+5. Maps in the earlier versions were reset.
+6. Enhanced explosion effects
+7. Improve image quality (by a tiny amount, anyway)
+8. Add new textures
+That’s all the updates.
+Please wait for the next official version 1.1.
