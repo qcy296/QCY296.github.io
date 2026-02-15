@@ -1,16 +1,12 @@
 CN/EN
-时隔几个月1.0正式更新(原先1.4)/V1.0(Replacing1.4) After Months
-1.启动器/1.Launcher added
-2.第三人称动作全修复/2.Third-person actions fully fixed
-3.怪物添加纹理/3.Monster textures added
-4.添加新怪物/4.New monsters added
-5.前几个早期版本地图重置/5.Early maps reset
-6.加强了爆炸效果/6.Explosion effects enhanced
-7.加强画质(也就一丢丢吧)/7.Slight graphics upgrade
-8.添加新的纹理/8.New textures added
-9.主页再次更新/9.Homepage updated
-以上就是全部更新内容了/Updates ended.
-请等待下个正式版本1.1/Wait V1.1
-
-雪山地图太亮了，晚上建议别玩/Snow mountain map too bright—avoid at night.
-鼠标问题请下载热修复版本哦/For mouse issues, please download the hotfix version.
+1.1小更新/1.1 Minor Update
+1.添加昼夜替换/1. Added day-night switch
+2.登录功能回归/2. Login feature restored
+3.添加了几个新的怪物/3. Added several new monsters
+注意/Warning
+千万不要玩死亡竞赛/DO NOT play Deathmatch
+千万不要玩死亡竞赛/DO NOT play Deathmatch
+千万不要玩死亡竞赛/DO NOT play Deathmatch
+有bug/There is a bug
+如果你是从1.0看到了这个公告，请前往game jolt更新如果没有看到，就代表开发者正在上传中/If you see this notice from version 1.0,please go to Game Jolt to update.If you don't see it,that means the developer is still uploading.
+下个1.2版本见/See you in version 1.2.
