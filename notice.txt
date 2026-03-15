@@ -1,12 +1,10 @@
 CN/EN
-1.1小更新/1.1 Minor Update
-1.添加昼夜替换/1. Added day-night switch
-2.登录功能回归/2. Login feature restored
-3.添加了几个新的怪物/3. Added several new monsters
-注意/Warning
-千万不要玩死亡竞赛/DO NOT play Deathmatch
-千万不要玩死亡竞赛/DO NOT play Deathmatch
-千万不要玩死亡竞赛/DO NOT play Deathmatch
-有bug/There is a bug
-如果你是从1.0看到了这个公告，请前往game jolt更新如果没有看到，就代表开发者正在上传中/If you see this notice from version 1.0,please go to Game Jolt to update.If you don't see it,that means the developer is still uploading.
-下个1.2版本见/See you in version 1.2.
+1.2小更新 | 1.2 Minor Update
+登录功能大提升（已经有真正的账号注册功能） | Sign-in functionality has been greatly improved (now includes a proper account registration feature)
+添加新的地图 | Add a new map
+TheCorner | TheCorner
+启动器微改(有点烂，后面会重新制作) | Minor changes to the launcher (kinda bad; will remake it later)
+鼠标新样式 | New mouse style
+那就是更新内容了 | That’s the updated content.
+祝你玩的愉快，玩的开心 | Have fun and enjoy yourself!
+我们1.3版本，再见 | See you in version 1.3
