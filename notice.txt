@@ -1,13 +1,2 @@
-CN/EN
-1.2小更新 | 1.2 Minor Update
-登录功能大提升（已经有真正的账号注册功能） | Sign-in functionality has been greatly improved (now includes a proper account registration feature)
-添加新的地图 | Add a new map
-TheCorner | TheCorner
-启动器微改(有点烂，后面会重新制作) | Minor changes to the launcher (kinda bad; will remake it later)
-鼠标新样式 | New mouse style
-那就是更新内容了 | That’s the updated content.
-祝你玩的愉快，玩的开心 | Have fun and enjoy yourself!
-我们1.3版本，再见 | See you in version 1.3
-如果你已登录的账号状态突然失效请重新点击'[LOGIN]'按钮|If the status of your logged in account suddenly becomes invalid, please click the 'LOGIN' button again
-
-最后修改于2026/4/4 20:30 | Last modified on April 4 2026 at 20:30
+它快来了..........
+It’s coming soon..........
